@@ -1,0 +1,10 @@
+# Dataset and trained weights (re-created by running the notebook)
+o-vs-r-split/
+*.zip
+*.keras
+*.h5
+
+# Local helpers
+_ref/
+.ipynb_checkpoints/
+__pycache__/
